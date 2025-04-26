@@ -7,4 +7,3 @@ venue: 'IEEE Journal on Selected Areas in Communications'
 paperurl: 'http://dx.doi.org/10.1109/JSAC.2006.875109'
 citation: ' M. Calderon,  C.J. Bernardos,  M. Bagnulo,  I. Soto,  A. De, &quot;Design and Experimental Evaluation of a Route Optimization Solution for NEMO; IEEE Journal on Selected Areas in Communications, 2006.'
 ---
-[Access paper here](http://dx.doi.org/10.1109/JSAC.2006.875109){:target="_blank"}
