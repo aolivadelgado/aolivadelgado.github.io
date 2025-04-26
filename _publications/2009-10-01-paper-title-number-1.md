@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Design and Experimental Evaluation of a Route Optimization Solution for NEMO"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
